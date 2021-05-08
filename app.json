@@ -1,0 +1,11 @@
+{
+  "apps" : [
+    {
+    "name"       : "VACCINE-SCHEDULER:3001",
+    "script"     : "./scheduler_rest.py",
+    "exec_interpreter": "./localenv/bin/python",
+    "exec_mode"  : "fork_mode"
+    }
+  ]
+}
+
