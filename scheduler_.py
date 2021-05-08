@@ -149,7 +149,3 @@ class StartFetch:
 
         return today_stat
 
-
-#
-# so = StartFetch(314, '08-05-2021', 45)
-# so.find_slot()
